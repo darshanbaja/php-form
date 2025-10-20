@@ -154,7 +154,7 @@ if ($dateObj !== false) {
           <strong>Applicant:</strong> <?php echo h($fullName); ?>
         </div>
         <div>
-          <a href="index.html">Submit another application</a>
+          <a href="index.php">Submit another application</a>
           <a href="#" onclick="window.print();return false;">Print</a>
         </div>
       </div>
