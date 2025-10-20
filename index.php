@@ -80,7 +80,7 @@
     </main>
 
     <footer>
-      <small>Prepared by: Your Name — Project: Online Registration</small>
+      <small>Prepared by: Darshan — Project: Online Registration</small>
     </footer>
   </div>
 </body>
