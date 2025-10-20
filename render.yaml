@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: php-registration-form
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
